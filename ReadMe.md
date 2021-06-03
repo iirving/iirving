@@ -14,4 +14,4 @@ I'm Ian Irving, a Senior Full Stack Developer and experienced software developer
 <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D"/>
 <img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
 
-<img alt="Ember JS" src="https://github.com/ember-learn/ember-website/blob/main/public/images/brand/ember-4c.svg" style="height: 29px;;">
+<img alt="Ember JS" src="https://github.com/ember-learn/ember-website/blob/main/public/images/brand/ember-4c.svg" height="28px">
