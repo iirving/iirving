@@ -1,7 +1,7 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 ## ## 🚀 About Me
 
-I'm Ian Irving, a Senior Full Stack Developer and experienced software developer with strengths in translating business needs into working code; delivering user friendly, people and data driven applications.
+I'm Ian Irving, a Senior Full Stack Developer and experienced software developer with strengths in translating business needs into working (tested) code; delivering user friendly, people and data driven applications.
 
 <a href="https://www.linkedin.com/in/ianairving/" rel="me"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a rel="me nofollow" href="https://ruby.social/@iani"><img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-1DA1F2?style=for-the-badge&logo=mastodon&logoColor=white"></a>
